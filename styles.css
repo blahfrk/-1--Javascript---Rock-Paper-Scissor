@@ -1,0 +1,35 @@
+body {
+  background-color: #1e1e2f !important;
+}
+
+.main-background {
+  background-color: #2e3b4e !important;
+}
+
+.userChoice-background {
+  background-color: #3a506b !important;
+}
+
+.computerChoice-background {
+  background-color: #5bc0be !important;
+}
+
+.icon {
+  transition: transform 0.2s;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+
+h1 {
+  color: white !important;
+}
+
+p {
+  color: white !important;
+}
+
+.modal-body {
+  background-color: #2e3b4e !important;
+}
